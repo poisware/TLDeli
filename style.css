@@ -1,0 +1,14 @@
+.menuBar
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+    border: none;
+    width: 100%;
+    z-index: 1000;
+    Display: flex;
+    justify-content: space-evenly;
+}
