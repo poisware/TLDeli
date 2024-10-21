@@ -48,3 +48,12 @@ h1
     height: 300px;
     width: 400px;
 }
+.albumFourImage
+{
+    Display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-left: 0px;
+    height: 300px;
+    width: 400px;
+}
