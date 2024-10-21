@@ -30,6 +30,13 @@ h1
     height: 300px;
     width: 400px;
 }
+.albumOneText
+{
+    Display: flex;
+    justify-content: space-around;
+    padding-top: 300px;
+    padding-left: 0px;
+}
 .albumTwoImage
 {
     Display: flex;
