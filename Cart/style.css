@@ -1,0 +1,35 @@
+body
+{
+    background-color: #726380;
+}
+h1
+{
+    font-family: "Lucida Console";
+}
+#menuBar
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #e3d5f5;
+    color: black;
+    font-size: 20px;
+    font-family: "Lucida Console";
+    border: none;
+    width: 100%;
+    z-index: 1000;
+    Display: flex;
+    justify-content: space-evenly;
+}
+.menuStuff
+{
+    Display: flex;
+}
+#menuText
+{
+    font-family: "Lucida Console";
+    padding-top: 120px;
+    padding-left:150px;
+    padding-right: 150px;
+    font-size: 30px;
+}

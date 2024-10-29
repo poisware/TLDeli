@@ -21,13 +21,32 @@ h1
     Display: flex;
     justify-content: space-evenly;
 }
-.menuText
+.menuStuff
+{
+    Display: flex;
+}
+#menuText
 {
     font-family: "Lucida Console";
-    padding-top: 100px;
-    padding-left: 100px;
+    padding-top: 120px;
+    padding-left:150px;
     padding-right: 150px;
     font-size: 30px;
+}
+.promotion
+{
+    font-family: "Lucida Console";
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 15px;
+    margin-left: 530px;
+    margin-top: -180px;
+}
+#vinylImage
+{
+    Display: flex;
+    padding-top: 150px;
+    padding-left: 0px;
 }
 .albums
 {
@@ -36,9 +55,8 @@ h1
 }
 #albumOneImage
 {
-    padding-top: 100px;
+    padding-top: 180px;
     padding-left: 0px;
-
 }
 #albumOneText
 {
@@ -46,7 +64,7 @@ h1
 }
 #albumTwoImage
 {
-    padding-top: 100px;
+    padding-top: 180px;
     padding-left: 0px;
 }
 #albumTwoText
@@ -55,19 +73,10 @@ h1
 }
 #albumThreeImage
 {
-    padding-top: 100px;
+    padding-top: 180px;
     padding-left: 0px;
 }
 #albumThreeText
-{
-    font-family: "Lucida Console";
-}
-#albumFourImage
-{
-    padding-top: 100px;
-    padding-left: 0px;
-}
-#albumFourText
 {
     font-family: "Lucida Console";
 }
