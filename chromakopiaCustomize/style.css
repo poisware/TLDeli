@@ -21,3 +21,19 @@ h1
     Display: flex;
     justify-content: space-evenly;
 }
+.chromakopiaInfo
+{
+    Display: flex;
+}
+#chromakopiaImage
+{
+    padding-top: 180px;
+    padding-left: 50px;
+}
+#chromakopiaSongList
+{
+    font-family: "Lucida Console";
+    padding-top: 180px;
+    padding-left: 100px;
+    padding-right: 400px;
+}

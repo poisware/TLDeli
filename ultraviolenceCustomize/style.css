@@ -21,3 +21,19 @@ h1
     Display: flex;
     justify-content: space-evenly;
 }
+.ultraviolenceInfo
+{
+    Display: flex;
+}
+#ultraviolenceImage
+{
+    padding-top: 180px;
+    padding-left: 50px;
+}
+#ultraviolenceSongList
+{
+    font-family: "Lucida Console";
+    padding-top: 180px;
+    padding-left: 100px;
+    padding-right: 400px;
+}
