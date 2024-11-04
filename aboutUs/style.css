@@ -26,6 +26,20 @@ h1
     font-family: "Lucida Console";
     padding-top: 120px;
     padding-left:150px;
-    padding-right: 0px;
+    padding-right: 150px;
     font-size: 30px;
+}
+#contactInfo
+{
+    font-family: "Lucida Console";
+    padding-top: 0px;
+    padding-left:150px;
+    padding-right: 150px;
+    font-size: 30px;
+}
+#headphonesImage
+{
+    Display: flex;
+    padding-top: 0px;
+    padding-left: 1100px;
 }
