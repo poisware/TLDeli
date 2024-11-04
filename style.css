@@ -30,7 +30,7 @@ h1
     font-family: "Lucida Console";
     padding-top: 120px;
     padding-left:150px;
-    padding-right: 150px;
+    padding-right: 0px;
     font-size: 30px;
 }
 .promotion
@@ -40,7 +40,7 @@ h1
     padding-right: 150px;
     font-size: 15px;
     margin-left: 530px;
-    margin-top: -180px;
+    margin-top: -165px;
 }
 #vinylImage
 {
