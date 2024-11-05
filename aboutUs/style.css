@@ -29,11 +29,15 @@ h1
     padding-right: 150px;
     font-size: 30px;
 }
+.imagePart
+{
+    Display: flex;
+}
 #contactInfo
 {
     font-family: "Lucida Console";
     padding-top: 0px;
-    padding-left:150px;
+    padding-left: 150px;
     padding-right: 150px;
     font-size: 30px;
 }
