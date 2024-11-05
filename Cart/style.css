@@ -20,6 +20,8 @@ h1
     z-index: 1000;
     Display: flex;
     justify-content: space-evenly;
+    border: solid;
+    border-color: black;
 }
 .menuStuff
 {
@@ -28,17 +30,17 @@ h1
 #priceBar
 {
     position: fixed;
-    top: 0px;
-    left: 0px;
     background-color: #e3d5f5;
     color: black;
     font-size: 35px;
     font-family: "Lucida Console";
-    border: none;
+    border: solid;
+    border-color: black;
     width: 25%;
+    height: 75%;
     z-index: 999;
     Display: flex;
     justify-content: space-evenly;
-    padding-top: 200px;
-    padding-left: 80%;
+    padding-top: 25%;
+    margin-left: 75%
 }

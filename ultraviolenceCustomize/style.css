@@ -20,6 +20,8 @@ h1
     z-index: 1000;
     Display: flex;
     justify-content: space-evenly;
+    border: solid;
+    border-color: black;
 }
 .ultraviolenceInfo
 {
