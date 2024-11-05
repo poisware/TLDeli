@@ -9,74 +9,74 @@ function addToCart()
     }
     else
     {
-        if(document.getElementById("cruelWorld").checked)
+        if(document.getElementById("stChroma").checked)
         {
-            currCart[currCart.length] = "Cruel World";
+            currCart[currCart.length] = "St. Chroma";
             price+=4;
         }
-        if(document.getElementById("ultraviolence").checked)
+        if(document.getElementById("rahTahTah").checked)
         {
-            currCart[currCart.length] = "Ultraviolence";
+            currCart[currCart.length] = "Rah Tah Tah";
             price+=4;
         }
-        if(document.getElementById("shadesOfCool").checked)
+        if(document.getElementById("noid").checked)
         {
-            currCart[currCart.length] = "Shades Of Cool";
+            currCart[currCart.length] = "Noid";
             price+=4;
         }
-        if(document.getElementById("brooklynBaby").checked)
+        if(document.getElementById("darlingI").checked)
         {
-            currCart[currCart.length] = "Brooklyn Baby";
+            currCart[currCart.length] = "Darling, I";
             price+=4;
         }
-        if(document.getElementById("westCoast").checked)
+        if(document.getElementById("heyJane").checked)
         {
-            currCart[currCart.length] = "West Coast";
+            currCart[currCart.length] = "Hey Jane";
             price+=4;
         }
-        if(document.getElementById("sadGirl").checked)
+        if(document.getElementById("iKilledYou").checked)
         {
-            currCart[currCart.length] = "Sad Girl";
+            currCart[currCart.length] = "I Killed You";
             price+=4;
         }
-        if(document.getElementById("prettyWhenYouCry").checked)
+        if(document.getElementById("judgeJudy").checked)
         {
-            currCart[currCart.length] = "Pretty When You Cry";
+            currCart[currCart.length] = "Judge Judy";
             price+=4;
         }
-        if(document.getElementById("moneyPowerGlory").checked)
+        if(document.getElementById("sticky").checked)
         {
-            currCart[currCart.length] = "Money Power Glory";
+            currCart[currCart.length] = "Sticky";
             price+=4;
         }
-        if(document.getElementById("fuckedMyWayUpToTheTop").checked)
+        if(document.getElementById("takeYourMaskOff").checked)
         {
-            currCart[currCart.length] = "Fucked My Way Up To The Top";
+            currCart[currCart.length] = "Take Your Mask Off";
             price+=4;
         }
-        if(document.getElementById("oldMoney").checked)
+        if(document.getElementById("tomorrow").checked)
         {
-            currCart[currCart.length] = "Old Money";
+            currCart[currCart.length] = "Tomorrow";
             price+=4;
         }
-        if(document.getElementById("theOtherWoman").checked)
+        if(document.getElementById("thoughtIWasDead").checked)
         {
-            currCart[currCart.length] = "The Other Woman";
+            currCart[currCart.length] = "Thought I Was Dead";
             price+=4;
         }
-        if(document.getElementById("blackBeauty").checked)
+        if(document.getElementById("likeHim").checked)
         {
-            currCart[currCart.length] = "Black Beauty";
+            currCart[currCart.length] = "Like Him";
             price+=4;
         }
-        if(document.getElementById("gunsAndRoses").checked)
+        if(document.getElementById("balloon").checked)
         {
-            currCart[currCart.length] = "Guns And Roses";
+            currCart[currCart.length] = "Balloon";
             price+=4;
         }
-        if(document.getElementById("floridaKilos").checked)
+        if(document.getElementById("iHopeYouFindYourWayHome").checked)
         {
-            currCart[currCart.length] = "Florida Kilos";
+            currCart[currCart.length] = "I Hope You Find Your Way Home";
             price+=4;
         }
     }
